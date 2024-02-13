@@ -1,0 +1,407 @@
+[
+  {
+    "file_name": "noise_2",
+    "Her_Noise_Radio_Programme": "one",
+    "broadcast_description": "Field recording before the opening of the Her Noise exhibition",
+    "known_artist/s": "Melanie Clifford",
+    "location": "The Automatic Music Tent (AKA Reverse Karaoke), South London Gallery, 65\u201367 Peckham Road, London SE5 8UH",
+    "geographic_coordinates": [
+      51.474128255644914,
+      -0.08063900272560605
+    ],
+    "broadcast_date": "16 November, 2005",
+    "broadcast_time": "16:30 - 16:45 GMT",
+    "start": "00:00:41.572",
+    "end": "00:00:44.181",
+    "length": "00:00:02.609"
+  },
+  {
+    "file_name": "noise_3",
+    "Her_Noise_Radio_Programme": "one",
+    "broadcast_description": "Field recording before the opening of the Her Noise exhibition",
+    "known_artist/s": "Melanie Clifford",
+    "location": "The Automatic Music Tent (AKA Reverse Karaoke), South London Gallery, 65\u201367 Peckham Road, London SE5 8UH",
+    "geographic_coordinates": [
+      51.474128255644914,
+      -0.08063900272560605
+    ],
+    "broadcast_date": "16 November, 2005",
+    "broadcast_time": "16:30 - 16:45 GMT",
+    "start": "00:01:13",
+    "end": "00:01:20",
+    "length": "00:00:07"
+  },
+  {
+    "file_name": "noise_9",
+    "Her_Noise_Radio_Programme": "one",
+    "broadcast_description": "Kim Gordon and Jutta Koether talking at Tate Modern",
+    "known_artist/s": "Kim Gordon, Jutta Koether",
+    "location": "Tate Modern, Bankside, London SE1 9TG",
+    "geographic_coordinates": [
+      51.50773897364795,
+      -0.09934862229790742
+    ],
+    "broadcast_date": "16 November, 2005",
+    "broadcast_time": "16:30 - 16:45 GMT",
+    "start": "00:06:03.507",
+    "end": "00:06:04.803",
+    "length": "00:00:01.296"
+  },
+  {
+    "file_name": "noise_11",
+    "Her_Noise_Radio_Programme": "one",
+    "broadcast_description": "Entering 'Sonic Bed Laboratory' by Kaffe Matthews",
+    "known_artist/s": "N/A",
+    "location": "South London Gallery, 65\u201367 Peckham Road, London SE5 8UH",
+    "geographic_coordinates": [
+      51.474128255644914,
+      -0.08063900272560605
+    ],
+    "broadcast_date": "16 November, 2005",
+    "broadcast_time": "16:30 - 16:45 GMT",
+    "start": "00:07:02.820",
+    "end": "00:07:12.178",
+    "length": "00:00:09.358"
+  },
+  {
+    "file_name": "noise_13",
+    "Her_Noise_Radio_Programme": "two",
+    "broadcast_description": "\"Extracts from 'We're Alive, Let's Meet', discussing 'zines' in the HER NOISE Archive\"",
+    "known_artist/s": "Tobi Vail, Ana da Silva, Amy Spencer, Alison Wolfe, Emma Hedditch, Emma Jackson, Isabel Waidner, Sarah Barnes, Victoria Yeulet",
+    "location": "South London Gallery, 65\u201367 Peckham Road, London SE5 8UH",
+    "geographic_coordinates": [
+      51.474128255644914,
+      -0.08063900272560605
+    ],
+    "broadcast_date": "23 November, 2005",
+    "broadcast_time": "16:30 - 16:45 GMT",
+    "start": "00:07:27.192",
+    "end": "00:07:28.904",
+    "length": "00:00:01.712"
+  },
+  {
+    "file_name": "noise_14",
+    "Her_Noise_Radio_Programme": "two",
+    "broadcast_description": "\"Extracts from 'We're Alive, Let's Meet', discussing 'zines' in the HER NOISE Archive\"",
+    "known_artist/s": "Tobi Vail, Ana da Silva, Amy Spencer, Alison Wolfe, Emma Hedditch, Emma Jackson, Isabel Waidner, Sarah Barnes, Victoria Yeulet",
+    "location": "South London Gallery, 65\u201367 Peckham Road, London SE5 8UH",
+    "geographic_coordinates": [
+      51.474128255644914,
+      -0.08063900272560605
+    ],
+    "broadcast_date": "23 November, 2005",
+    "broadcast_time": "16:30 - 16:45 GMT",
+    "start": "00:07:32.690",
+    "end": "00:07:33.475",
+    "length": "00:00:00.785"
+  },
+  {
+    "file_name": "noise_16",
+    "Her_Noise_Radio_Programme": "three",
+    "broadcast_description": "Field recordings in South London Gallery - felt tips, plasticine & the tent",
+    "known_artist/s": "N/A",
+    "location": "South London Gallery, 65\u201367 Peckham Road, London SE5 8UH",
+    "geographic_coordinates": [
+      51.474128255644914,
+      -0.08063900272560605
+    ],
+    "broadcast_date": "30 November, 2005",
+    "broadcast_time": "16:30 - 16:45 GMT",
+    "start": "00:00:38.352",
+    "end": "00:00:42.747",
+    "length": "00:00:04.395"
+  },
+  {
+    "file_name": "noise_18",
+    "Her_Noise_Radio_Programme": "three",
+    "broadcast_description": "Jutta Koether talking about collaboration at Tate Modern",
+    "known_artist/s": "Jutta Koether",
+    "location": "Tate Modern, Bankside, London SE1 9TG",
+    "geographic_coordinates": [
+      51.50773897364795,
+      -0.09934862229790742
+    ],
+    "broadcast_date": "30 November, 2005",
+    "broadcast_time": "16:30 - 16:45 GMT",
+    "start": "00:05:03.820",
+    "end": "00:05:05.466",
+    "length": "00:00:01.646"
+  },
+  {
+    "file_name": "noise_25",
+    "Her_Noise_Radio_Programme": "four",
+    "broadcast_description": "Field recordings made on Christina Kubisch's Electrical Walks",
+    "known_artist/s": "N/A",
+    "location": "Goethe-Institut, 50 Princes Gate, Exhibition Road, London SW7 2PH",
+    "geographic_coordinates": [
+      51.50012126813615,
+      -0.17411901534422175
+    ],
+    "broadcast_date": "07 December, 2005",
+    "broadcast_time": "16:30 - 16:45 GMT",
+    "start": "00:03:12.159",
+    "end": "00:03:22.535",
+    "length": "00:00:10.376"
+  },
+  {
+    "file_name": "noise_26",
+    "Her_Noise_Radio_Programme": "four",
+    "broadcast_description": "Field recordings made on Christina Kubisch's Electrical Walks",
+    "known_artist/s": "N/A",
+    "location": "Goethe-Institut, 50 Princes Gate, Exhibition Road, London SW7 2PH",
+    "geographic_coordinates": [
+      51.50012126813615,
+      -0.17411901534422175
+    ],
+    "broadcast_date": "07 December, 2005",
+    "broadcast_time": "16:30 - 16:45 GMT",
+    "start": "00:03:44.273",
+    "end": "00:03:48.650",
+    "length": "00:00:04.377"
+  },
+  {
+    "file_name": "noise_29",
+    "Her_Noise_Radio_Programme": "four",
+    "broadcast_description": "Vivienne Dick talking about her super 8 film 'Guerill\u00e8re Talks'",
+    "known_artist/s": "Emma Hedditch, Vivienne Dick, Pat Place, Adele Bertei, Ikue Mori",
+    "location": "South London Gallery, 65\u201367 Peckham Road, London SE5 8UH",
+    "geographic_coordinates": [
+      51.474128255644914,
+      -0.08063900272560605
+    ],
+    "broadcast_date": "07 December, 2005",
+    "broadcast_time": "16:30 - 16:45 GMT",
+    "start": "00:09:48.385",
+    "end": "00:09:56.227",
+    "length": "00:00:07.842"
+  },
+  {
+    "file_name": "noise_37",
+    "Her_Noise_Radio_Programme": "four",
+    "broadcast_description": "Vivienne Dick talking about her super 8 film 'Guerill\u00e8re Talks'",
+    "known_artist/s": "Emma Hedditch, Vivienne Dick, Pat Place, Adele Bertei, Ikue Mori",
+    "location": "South London Gallery, 65\u201367 Peckham Road, London SE5 8UH",
+    "geographic_coordinates": [
+      51.474128255644914,
+      -0.08063900272560605
+    ],
+    "broadcast_date": "07 December, 2005",
+    "broadcast_time": "16:30 - 16:45 GMT",
+    "start": "00:10:40.000",
+    "end": "00:10:48.000",
+    "length": "00:00:08.000"
+  },
+  {
+    "file_name": "noise_45",
+    "Her_Noise_Radio_Programme": "four",
+    "broadcast_description": "Emma Hedditch introducing 'Dresden Dynamo' by Lis Rhodes at We're Alive, Let's Meet",
+    "known_artist/s": "Emma Hedditch, Lis Rhodes",
+    "location": "South London Gallery, 65\u201367 Peckham Road, London SE5 8UH",
+    "geographic_coordinates": [
+      51.474128255644914,
+      -0.08063900272560605
+    ],
+    "broadcast_date": "07 December, 2005",
+    "broadcast_time": "16:30 - 16:45 GMT",
+    "start": "00:13:22.570",
+    "end": "00:13:26.479",
+    "length": "00:00:03.909"
+  },
+  {
+    "file_name": "noise_47",
+    "Her_Noise_Radio_Programme": "five",
+    "broadcast_description": "Melanie Clifford introducing 'It's not 7 minutes' for HER NOISE",
+    "known_artist/s": "Melanie Clifford",
+    "location": "South London Gallery, 65\u201367 Peckham Road, London SE5 8UH",
+    "geographic_coordinates": [
+      51.474128255644914,
+      -0.08063900272560605
+    ],
+    "broadcast_date": "14 December, 2005",
+    "broadcast_time": "16:30 - 16:45 GMT",
+    "start": "00:00:42.811",
+    "end": "00:00:46.938",
+    "length": "00:00:04.127"
+  },
+  {
+    "file_name": "noise_50",
+    "Her_Noise_Radio_Programme": "five",
+    "broadcast_description": "Conversation with Creative Routes & others at We're Alive, Let's Meet by Emma Hedditch",
+    "known_artist/s": "N/A",
+    "location": "South London Gallery, 65\u201367 Peckham Road, London SE5 8UH",
+    "geographic_coordinates": [
+      51.474128255644914,
+      -0.08063900272560605
+    ],
+    "broadcast_date": "14 December, 2005",
+    "broadcast_time": "16:30 - 16:45 GMT",
+    "start": "00:10:59.464",
+    "end": "00:11:05.828",
+    "length": "00:00:06.364"
+  },
+  {
+    "file_name": "denoise_2",
+    "Her_Noise_Radio_Programme": "one",
+    "fundamental_frequency_1st_harmonic": 167.1,
+    "audio_technologies": "Sony Portable Minidisc Recorder MZ-NH900",
+    "year_of_release_and_distribution": 2004,
+    "place_of_manufacturer": "Japan",
+    "elements_and_rare_earth_minerals": "Lanthanum (La)",
+    "time_date_of_recording": "10 November, 2005",
+    "temperature": 5.1
+  },
+  {
+    "file_name": "denoise_3",
+    "Her_Noise_Radio_Programme": "one",
+    "fundamental_frequency_1st_harmonic": 390.6,
+    "audio_technologies": "Sony AC power adaptor + Sony battery charging stand",
+    "year_of_release_and_distribution": 2004,
+    "place_of_manufacturer": "Japan",
+    "elements_and_rare_earth_minerals": "Cerium (Ce)",
+    "time_date_of_recording": "10 November, 2005",
+    "temperature": 5.1
+  },
+  {
+    "file_name": "denoise_9",
+    "Her_Noise_Radio_Programme": "one",
+    "fundamental_frequency_1st_harmonic": 523,
+    "audio_technologies": "Duracell Ultra M3 AA Alkaline dry batteries for MiniDisc Recorder",
+    "year_of_release_and_distribution": 2004,
+    "place_of_manufacturer": "Malaysia",
+    "elements_and_rare_earth_minerals": "Praseodymium (Pr)",
+    "time_date_of_recording": "10 November, 2005",
+    "temperature": 5.1
+  },
+  {
+    "file_name": "denoise_11",
+    "Her_Noise_Radio_Programme": "one",
+    "fundamental_frequency_1st_harmonic": 434.3,
+    "audio_technologies": "Maxell 80 Magneto-optical discs",
+    "year_of_release_and_distribution": 2001,
+    "place_of_manufacturer": "Taiwan",
+    "elements_and_rare_earth_minerals": "Neodymium (Nd)",
+    "time_date_of_recording": "N/A",
+    "temperature": "N/A"
+  },
+  {
+    "file_name": "denoise_13",
+    "Her_Noise_Radio_Programme": "two",
+    "fundamental_frequency_1st_harmonic": 217.9,
+    "audio_technologies": "Rode NT3 condenser mic - 2003",
+    "year_of_release_and_distribution": 1998,
+    "place_of_manufacturer": "Australia",
+    "elements_and_rare_earth_minerals": "Promethium (Pm)",
+    "time_date_of_recording": "19 November, 2005",
+    "temperature": 4.8
+  },
+  {
+    "file_name": "denoise_14",
+    "Her_Noise_Radio_Programme": "two",
+    "fundamental_frequency_1st_harmonic": 242.3,
+    "audio_technologies": "Rode black vinyl microphone case",
+    "year_of_release_and_distribution": 2004,
+    "place_of_manufacturer": "Australia",
+    "elements_and_rare_earth_minerals": "Samarium (Sm)",
+    "time_date_of_recording": "19 November, 2005",
+    "temperature": null
+  },
+  {
+    "file_name": "denoise_16",
+    "Her_Noise_Radio_Programme": "three",
+    "fundamental_frequency_1st_harmonic": 121.1,
+    "audio_technologies": "Duracell 9 volt batteries for Rode NT3 Microphone",
+    "year_of_release_and_distribution": 2004,
+    "place_of_manufacturer": "United States",
+    "elements_and_rare_earth_minerals": "Europium (Eu)",
+    "time_date_of_recording": "25 November, 2005",
+    "temperature": 7.4
+  },
+  {
+    "file_name": "denoise_18",
+    "Her_Noise_Radio_Programme": "three",
+    "fundamental_frequency_1st_harmonic": 450,
+    "audio_technologies": "Soundman OKM II Classic In Ear Stereo Microphones",
+    "year_of_release_and_distribution": 2002,
+    "place_of_manufacturer": "Germany",
+    "elements_and_rare_earth_minerals": "Gadolinium (Gd)",
+    "time_date_of_recording": "10 November, 2005",
+    "temperature": 5.1
+  },
+  {
+    "file_name": "denoise_25",
+    "Her_Noise_Radio_Programme": "four",
+    "fundamental_frequency_1st_harmonic": 142,
+    "audio_technologies": "SonicStage",
+    "year_of_release_and_distribution": 2003,
+    "place_of_manufacturer": "Japan",
+    "elements_and_rare_earth_minerals": "Terbium (Tb)",
+    "time_date_of_recording": "02 December, 2005",
+    "temperature": 6.2
+  },
+  {
+    "file_name": "denoise_26",
+    "Her_Noise_Radio_Programme": "four",
+    "fundamental_frequency_1st_harmonic": 185,
+    "audio_technologies": "XLR Cable",
+    "year_of_release_and_distribution": "unknown",
+    "place_of_manufacturer": "unknown",
+    "elements_and_rare_earth_minerals": "Dysprosium (Dy)",
+    "time_date_of_recording": "02 December, 2005",
+    "temperature": null
+  },
+  {
+    "file_name": "denoise_29",
+    "Her_Noise_Radio_Programme": "four",
+    "fundamental_frequency_1st_harmonic": 821,
+    "audio_technologies": "Adapter - XLR to stereo (mini jack)",
+    "year_of_release_and_distribution": "unknown",
+    "place_of_manufacturer": "unknown",
+    "elements_and_rare_earth_minerals": "Holmium (Ho)",
+    "time_date_of_recording": "03 December, 2005",
+    "temperature": 8.5
+  },
+  {
+    "file_name": "denoise_37",
+    "Her_Noise_Radio_Programme": "four",
+    "fundamental_frequency_1st_harmonic": 255.5,
+    "audio_technologies": "Audio Technica AT825",
+    "year_of_release_and_distribution": 2001,
+    "place_of_manufacturer": "Japan",
+    "elements_and_rare_earth_minerals": "Erbium (Er)",
+    "time_date_of_recording": "03 December, 2005",
+    "temperature": 8.5
+  },
+  {
+    "file_name": "denoise_45",
+    "Her_Noise_Radio_Programme": "four",
+    "fundamental_frequency_1st_harmonic": 93.2,
+    "audio_technologies": "Mackie 1604 - VLZ Pro",
+    "year_of_release_and_distribution": 1997,
+    "place_of_manufacturer": null,
+    "elements_and_rare_earth_minerals": "Thulium (Tm)",
+    "time_date_of_recording": "3 December, 2005",
+    "temperature": 8.5
+  },
+  {
+    "file_name": "denoise_47",
+    "Her_Noise_Radio_Programme": "five",
+    "fundamental_frequency_1st_harmonic": 664,
+    "audio_technologies": "Alesis 3630",
+    "year_of_release_and_distribution": 2003,
+    "place_of_manufacturer": "United States",
+    "elements_and_rare_earth_minerals": "Ytterbium (Yb)",
+    "time_date_of_recording": "N/A",
+    "temperature": "N/A"
+  },
+  {
+    "file_name": "denoise_50",
+    "Her_Noise_Radio_Programme": "five",
+    "fundamental_frequency_1st_harmonic": 71.48,
+    "audio_technologies": "Mackie SRM 350s",
+    "year_of_release_and_distribution": 2002,
+    "place_of_manufacturer": "United States",
+    "elements_and_rare_earth_minerals": "Lutetium (Lu)",
+    "time_date_of_recording": "10 December, 2005",
+    "temperature": 5.2
+  }
+]
