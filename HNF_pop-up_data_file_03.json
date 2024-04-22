@@ -247,7 +247,7 @@
     "year_of_release_and_distribution": 2004,
     "place_of_manufacturer": "Japan",
     "elements_and_rare_earth_minerals": "Lanthanum (La)",
-    "time_date_of_recording": "10 November, 2005",
+    "date_of_recording": "10 November, 2005",
     "temperature": 5.1
   },
   {
@@ -258,7 +258,7 @@
     "year_of_release_and_distribution": 2004,
     "place_of_manufacturer": "Japan",
     "elements_and_rare_earth_minerals": "Cerium (Ce)",
-    "time_date_of_recording": "10 November, 2005",
+    "date_of_recording": "10 November, 2005",
     "temperature": 5.1
   },
   {
@@ -269,7 +269,7 @@
     "year_of_release_and_distribution": 2004,
     "place_of_manufacturer": "Malaysia",
     "elements_and_rare_earth_minerals": "Praseodymium (Pr)",
-    "time_date_of_recording": "10 November, 2005",
+    "date_of_recording": "10 November, 2005",
     "temperature": 5.1
   },
   {
@@ -280,7 +280,7 @@
     "year_of_release_and_distribution": 2001,
     "place_of_manufacturer": "Taiwan",
     "elements_and_rare_earth_minerals": "Neodymium (Nd)",
-    "time_date_of_recording": "N/A",
+    "date_of_recording": "N/A",
     "temperature": "N/A"
   },
   {
@@ -291,7 +291,7 @@
     "year_of_release_and_distribution": 1998,
     "place_of_manufacturer": "Australia",
     "elements_and_rare_earth_minerals": "Promethium (Pm)",
-    "time_date_of_recording": "19 November, 2005",
+    "date_of_recording": "19 November, 2005",
     "temperature": 4.8
   },
   {
@@ -302,7 +302,7 @@
     "year_of_release_and_distribution": 2004,
     "place_of_manufacturer": "Australia",
     "elements_and_rare_earth_minerals": "Samarium (Sm)",
-    "time_date_of_recording": "19 November, 2005",
+    "date_of_recording": "19 November, 2005",
     "temperature": null
   },
   {
@@ -313,7 +313,7 @@
     "year_of_release_and_distribution": 2004,
     "place_of_manufacturer": "United States",
     "elements_and_rare_earth_minerals": "Europium (Eu)",
-    "time_date_of_recording": "25 November, 2005",
+    "date_of_recording": "25 November, 2005",
     "temperature": 7.4
   },
   {
@@ -324,7 +324,7 @@
     "year_of_release_and_distribution": 2002,
     "place_of_manufacturer": "Germany",
     "elements_and_rare_earth_minerals": "Gadolinium (Gd)",
-    "time_date_of_recording": "10 November, 2005",
+    "date_of_recording": "10 November, 2005",
     "temperature": 5.1
   },
   {
@@ -335,7 +335,7 @@
     "year_of_release_and_distribution": 2003,
     "place_of_manufacturer": "Japan",
     "elements_and_rare_earth_minerals": "Terbium (Tb)",
-    "time_date_of_recording": "02 December, 2005",
+    "date_of_recording": "02 December, 2005",
     "temperature": 6.2
   },
   {
@@ -346,7 +346,7 @@
     "year_of_release_and_distribution": "unknown",
     "place_of_manufacturer": "unknown",
     "elements_and_rare_earth_minerals": "Dysprosium (Dy)",
-    "time_date_of_recording": "02 December, 2005",
+    "date_of_recording": "02 December, 2005",
     "temperature": null
   },
   {
@@ -357,7 +357,7 @@
     "year_of_release_and_distribution": "unknown",
     "place_of_manufacturer": "unknown",
     "elements_and_rare_earth_minerals": "Holmium (Ho)",
-    "time_date_of_recording": "03 December, 2005",
+    "date_of_recording": "03 December, 2005",
     "temperature": 8.5
   },
   {
@@ -368,7 +368,7 @@
     "year_of_release_and_distribution": 2001,
     "place_of_manufacturer": "Japan",
     "elements_and_rare_earth_minerals": "Erbium (Er)",
-    "time_date_of_recording": "03 December, 2005",
+    "date_of_recording": "03 December, 2005",
     "temperature": 8.5
   },
   {
@@ -379,7 +379,7 @@
     "year_of_release_and_distribution": 1997,
     "place_of_manufacturer": null,
     "elements_and_rare_earth_minerals": "Thulium (Tm)",
-    "time_date_of_recording": "3 December, 2005",
+    "date_of_recording": "3 December, 2005",
     "temperature": 8.5
   },
   {
@@ -390,7 +390,7 @@
     "year_of_release_and_distribution": 2003,
     "place_of_manufacturer": "United States",
     "elements_and_rare_earth_minerals": "Ytterbium (Yb)",
-    "time_date_of_recording": "N/A",
+    "date_of_recording": "N/A",
     "temperature": "N/A"
   },
   {
@@ -401,7 +401,7 @@
     "year_of_release_and_distribution": 2002,
     "place_of_manufacturer": "United States",
     "elements_and_rare_earth_minerals": "Lutetium (Lu)",
-    "time_date_of_recording": "10 December, 2005",
+    "date_of_recording": "10 December, 2005",
     "temperature": 5.2
   }
 ]
