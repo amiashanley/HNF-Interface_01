@@ -246,7 +246,7 @@
     "audio_recording_equipment": "Sony Portable Minidisc Recorder MZ-NH900",
     "year_of_release_and_distribution": 2004,
     "place_of_manufacturer": "Japan",
-    "materials_metals_rare_earth_elements": "Lanthanum (La)",
+    "materials_metals_rare_earth_elements": "Aluminium (Al), Copper (Cu), Gold (Au), Indium (In), Iron (Fe), Neodymium (Nd), Silicon Dioxide (SiO2), Silver (Ag), Yttrium (Y)",
     "date_of_recording": "10 November, 2005",
     "weather_data": "5.0/14.9°C, 20.5 kph, SW, mostly cloudy, light rain"
   },
@@ -254,10 +254,10 @@
     "file_name": "denoise_3.wav",
     "Her_Noise_Radio_Programme": "one",
     "fundamental_frequency_1st_harmonic": 390.6,
-    "audio_recording_equipment": "Sony AC power adaptor + Sony battery charging stand",
+    "audio_recording_equipment": "Sony AC power adaptor, Sony battery charging stand",
     "year_of_release_and_distribution": 2004,
     "place_of_manufacturer": "Japan",
-    "materials_metals_rare_earth_elements": "Cerium (Ce)",
+    "materials_metals_rare_earth_elements": "ABS (Acrylonitrile Butadiene Styrene), Aluminium (Al), Cerium (Ce), Copper (Cu), Gallium Arsenide (GaAs), Gold (Au), Indium (In), Indium Gallium Nitride (InGaN), Iron (Fe), Lanthanum (La), Neodymium (Nd), Nickel (Ni), Polycarbonate, Silver (Ag)",
     "date_of_recording": "10 November, 2005",
     "weather_data": "5.0/14.9°C, 20.5 kph, SW, mostly cloudy, light rain"
   },
@@ -268,7 +268,7 @@
     "audio_recording_equipment": "Duracell Ultra M3 AA Alkaline dry batteries for MiniDisc Recorder",
     "year_of_release_and_distribution": 2004,
     "place_of_manufacturer": "Malaysia",
-    "materials_metals_rare_earth_elements": "Praseodymium (Pr)",
+    "materials_metals_rare_earth_elements": "Aluminium (Al), Brass, Cellulose, Manganese Dioxide (MnO2), Nickel (Ni), Polyethylene, Potassium Hydroxide (KOH), Zinc (Zn)",
     "date_of_recording": "10 November, 2005",
     "weather_data": "5.0/14.9°C, 20.5 kph, SW, mostly cloudy, light rain"
   },
@@ -279,7 +279,7 @@
     "audio_recording_equipment": "Maxell 80 Magneto-optical discs",
     "year_of_release_and_distribution": 2001,
     "place_of_manufacturer": "Taiwan",
-    "materials_metals_rare_earth_elements": "Neodymium (Nd)",
+    "materials_metals_rare_earth_elements": "Gadolinium-Iron-Cobalt (GdFeCo) or Terbium-Iron-Cobalt (TbFeCo), Polymer, Polycarbonate",
     "date_of_recording": "N/A",
     "weather_data": "N/A"
   },
@@ -290,7 +290,7 @@
     "audio_recording_equipment": "Rode NT3 condenser mic - 2003",
     "year_of_release_and_distribution": 1998,
     "place_of_manufacturer": "Australia",
-    "materials_metals_rare_earth_elements": "Promethium (Pm)",
+    "materials_metals_rare_earth_elements": "Aluminium (Al), Ceramic, Copper (Cu), Gold-sputtered Mylar, Neodymium Magnets (Nd), Silicon (Si), Iron (Fe), Tantalum (Ta)",
     "date_of_recording": "19 November, 2005",
     "weather_data": "-0.2/7.9°C, 1.80 kph, NW, mist, no significant cloud"
   },
@@ -301,7 +301,7 @@
     "audio_recording_equipment": "Rode black vinyl microphone case",
     "year_of_release_and_distribution": 2004,
     "place_of_manufacturer": "Australia",
-    "materials_metals_rare_earth_elements": "Samarium (Sm)",
+    "materials_metals_rare_earth_elements": "Brass, Chlorine (Cl), Diisocyanates, Ethylene (C2H4), Nylon, Polyester, Polyols, Polyurethane Foam, Polyvinyl Chloride (PVC), Synthetic Fibers",
     "date_of_recording": "19 November, 2005",
     "weather_data": "-0.2/7.9°C, 1.80 kph, NW, mist, no significant cloud"
   },
@@ -312,7 +312,7 @@
     "audio_recording_equipment": "Duracell 9 volt batteries for Rode NT3 Microphone",
     "year_of_release_and_distribution": 2004,
     "place_of_manufacturer": "United States",
-    "materials_metals_rare_earth_elements": "Europium (Eu)",
+    "materials_metals_rare_earth_elements": "Aluminium (Al), Brass, Cellulose, Manganese Dioxide (MnO2), Nickel (Ni), Polyethylene, Potassium Hydroxide (KOH), Zinc (Zn)",
     "date_of_recording": "25 November, 2005",
     "weather_data": "-0.3/2.7°C, 16.6 kph, W, partly cloudy"
   },
@@ -323,7 +323,7 @@
     "audio_recording_equipment": "Soundman OKM II Classic In Ear Stereo Microphones",
     "year_of_release_and_distribution": 2002,
     "place_of_manufacturer": "Germany",
-    "materials_metals_rare_earth_elements": "Gadolinium (Gd)",
+    "materials_metals_rare_earth_elements": "ABS (Acrylonitrile Butadiene Styrene), Aluminium (Al), Brass, Copper (Cu), Lead Zirconate Titanate (PZT), Nickel (Ni), Polycarbonate, Polyurethane Foam, PVC (Polyvinyl Chloride), Silicone Rubber, Stainless Steel",
     "date_of_recording": "10 November, 2005",
     "weather_data": "5.0/14.9°C, 20.5 kph, SW, mostly cloudy, light rain"
   },
@@ -334,7 +334,7 @@
     "audio_recording_equipment": "SonicStage",
     "year_of_release_and_distribution": 2003,
     "place_of_manufacturer": "Japan",
-    "materials_metals_rare_earth_elements": "Terbium (Tb)",
+    "materials_metals_rare_earth_elements": "Aluminium (Al), Bisphenol A (BPA) and Phosgene, Ink (containing toluene, xylene, ethyl acetate), Lacquer (containing polyurethanes), Polycarbonate",
     "date_of_recording": "02 December, 2005",
     "weather_data": "6.0/11.0°C, 27.7 kph, S, partly cloudy, showers of light rain"
   },
@@ -345,7 +345,7 @@
     "audio_recording_equipment": "XLR Cable",
     "year_of_release_and_distribution": "unknown",
     "place_of_manufacturer": "unknown",
-    "materials_metals_rare_earth_elements": "Dysprosium (Dy)",
+    "materials_metals_rare_earth_elements": "Aluminium (Al), Brass (CuZn), Copper (Cu), Nickel (Ni), Polyethylene (PE), Polypropylene (PP), Thermoplastic elastomer (TPE), Tin-silver-copper (Sn-Ag-Cu), Zinc (Zn)",
     "date_of_recording": "02 December, 2005",
     "weather_data": null
   },
@@ -356,7 +356,7 @@
     "audio_recording_equipment": "Adapter - XLR to stereo (mini jack)",
     "year_of_release_and_distribution": "unknown",
     "place_of_manufacturer": "unknown",
-    "materials_metals_rare_earth_elements": "Holmium (Ho)",
+    "materials_metals_rare_earth_elements": "ABS (Acrylonitrile Butadiene Styrene), Aluminium (Al) or Zinc (Zn), Brass (CuZn), Copper (Cu), Phosphor Bronze, Polycarbonate, PVC (Polyvinyl Chloride), TPE (Thermoplastic Elastomer), Tin-silver-copper (Sn-Ag-Cu)",
     "date_of_recording": "03 December, 2005",
     "weather_data": "6.0/10.5°C, 24.1 kph, SW, fog, mostly cloudy, rain"
   },
@@ -367,7 +367,7 @@
     "audio_recording_equipment": "Audio Technica AT825",
     "year_of_release_and_distribution": 2001,
     "place_of_manufacturer": "Japan",
-    "materials_metals_rare_earth_elements": "Erbium (Er)",
+    "materials_metals_rare_earth_elements": "Aluminium (Al), Aluminium Electrolytic Capacitors, Alumina (Al2O3) or Silicon Dioxide (SiO2), Brass (CuZn), Copper (Cu), Ethylene Propylene Diene Monomer (EPDM), Gold-sputtered Mylar, Nickel (Ni), Nickel-Chromium (NiCr) or Tantalum Nitride (TaN), Polycarbonate, Polypropylene (PP capacitors), Zinc (Zn)",
     "date_of_recording": "03 December, 2005",
     "weather_data": "6.0/10.5°C, 24.1 kph, SW, fog, mostly cloudy, rain"
   },
@@ -378,7 +378,7 @@
     "audio_recording_equipment": "Mackie 1604 - VLZ Pro",
     "year_of_release_and_distribution": 1997,
     "place_of_manufacturer": null,
-    "elements_and_rare_earth_minerals": "Thulium (Tm)",
+    "elements_and_rare_earth_minerals": "ABS (Acrylonitrile Butadiene Styrene), Aluminium (Al), Brass, Copper (Cu), Iron (Fe), Nickel (Ni), Polyester (PET), Polypropylene (PP), Silicon (Si), Zinc (Zn)",
     "date_of_recording": "03 December, 2005",
     "weather_data": "6.0/10.5°C, 24.1 kph, SW, fog, mostly cloudy, rain"
   },
@@ -389,7 +389,7 @@
     "audio_recording_equipment": "Alesis 3630",
     "year_of_release_and_distribution": 2003,
     "place_of_manufacturer": "United States",
-    "elements_and_rare_earth_minerals": "Ytterbium (Yb)",
+    "elements_and_rare_earth_minerals": "ABS (Acrylonitrile Butadiene Styrene), Aluminium (Al), Carbon film, Ceramic, Metal film, Polyester, Polycarbonate, Polypropylene, Silicon (Si), Zinc (Zn)",
     "date_of_recording": "N/A",
     "weather_data": "N/A"
   },
@@ -400,7 +400,7 @@
     "audio_recording_equipment": "Mackie SRM 350s",
     "year_of_release_and_distribution": 2002,
     "place_of_manufacturer": "United States",
-    "elements_and_rare_earth_minerals": "Lutetium (Lu)",
+    "elements_and_rare_earth_minerals": "Aluminium (Al), Copper (Cu), Fiberglass-reinforced epoxy laminate, High-density polyethylene (HDPE), Nickel-chromium (NiCr), Polyethylene terephthalate (PET), Polymer-Impregnated Paper, Polypropylene (PP), Ruthenium oxide, Silicon (Si), Silicon Dioxide (SiO2), Iron (Fe), Tantalum nitride (TaN)",
     "date_of_recording": "10 December, 2005",
     "weather_data": "0.0/7.6°C, 5.40 kph, SW, haze"
   }
