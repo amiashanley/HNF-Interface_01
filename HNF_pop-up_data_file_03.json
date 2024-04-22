@@ -248,7 +248,7 @@
     "place_of_manufacturer": "Japan",
     "elements_and_rare_earth_minerals": "Lanthanum (La)",
     "date_of_recording": "10 November, 2005",
-    "weather_data": 5.0/14.9°C, 20.5 kph, SW, mostly cloudy, light rain
+    "weather_data": "5.0/14.9°C, 20.5 kph, SW, mostly cloudy, light rain"
   },
   {
     "file_name": "denoise_3.wav",
@@ -259,7 +259,7 @@
     "place_of_manufacturer": "Japan",
     "elements_and_rare_earth_minerals": "Cerium (Ce)",
     "date_of_recording": "10 November, 2005",
-    "weather_data": 5.0/14.9°C, 20.5 kph, SW, mostly cloudy, light rain
+    "weather_data": "5.0/14.9°C, 20.5 kph, SW, mostly cloudy, light rain"
   },
   {
     "file_name": "denoise_9.wav",
@@ -270,7 +270,7 @@
     "place_of_manufacturer": "Malaysia",
     "elements_and_rare_earth_minerals": "Praseodymium (Pr)",
     "date_of_recording": "10 November, 2005",
-    "weather_data": 5.0/14.9°C, 20.5 kph, SW, mostly cloudy, light rain
+    "weather_data": "5.0/14.9°C, 20.5 kph, SW, mostly cloudy, light rain"
   },
   {
     "file_name": "denoise_11.wav",
@@ -325,7 +325,7 @@
     "place_of_manufacturer": "Germany",
     "elements_and_rare_earth_minerals": "Gadolinium (Gd)",
     "date_of_recording": "10 November, 2005",
-    "weather_data": 5.0/14.9°C, 20.5 kph, SW, mostly cloudy, light rain
+    "weather_data": "5.0/14.9°C, 20.5 kph, SW, mostly cloudy, light rain"
   },
   {
     "file_name": "denoise_25.wav",
