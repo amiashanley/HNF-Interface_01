@@ -248,7 +248,7 @@
     "place_of_manufacturer": "Japan",
     "elements_and_rare_earth_minerals": "Lanthanum (La)",
     "date_of_recording": "10 November, 2005",
-    "temperature": 5.1
+    "weather_data": 5.1
   },
   {
     "file_name": "denoise_3.wav",
@@ -259,7 +259,7 @@
     "place_of_manufacturer": "Japan",
     "elements_and_rare_earth_minerals": "Cerium (Ce)",
     "date_of_recording": "10 November, 2005",
-    "temperature": 5.1
+    "weather_data": 5.1
   },
   {
     "file_name": "denoise_9.wav",
@@ -270,7 +270,7 @@
     "place_of_manufacturer": "Malaysia",
     "elements_and_rare_earth_minerals": "Praseodymium (Pr)",
     "date_of_recording": "10 November, 2005",
-    "temperature": 5.1
+    "weather_data": 5.1
   },
   {
     "file_name": "denoise_11.wav",
@@ -281,7 +281,7 @@
     "place_of_manufacturer": "Taiwan",
     "elements_and_rare_earth_minerals": "Neodymium (Nd)",
     "date_of_recording": "N/A",
-    "temperature": "N/A"
+    "weather_data": "N/A"
   },
   {
     "file_name": "denoise_13.wav",
@@ -292,7 +292,7 @@
     "place_of_manufacturer": "Australia",
     "elements_and_rare_earth_minerals": "Promethium (Pm)",
     "date_of_recording": "19 November, 2005",
-    "temperature": 4.8
+    "weather_data": 4.8
   },
   {
     "file_name": "denoise_14.wav",
@@ -303,7 +303,7 @@
     "place_of_manufacturer": "Australia",
     "elements_and_rare_earth_minerals": "Samarium (Sm)",
     "date_of_recording": "19 November, 2005",
-    "temperature": null
+    "weather_data": null
   },
   {
     "file_name": "denoise_16.wav",
@@ -314,7 +314,7 @@
     "place_of_manufacturer": "United States",
     "elements_and_rare_earth_minerals": "Europium (Eu)",
     "date_of_recording": "25 November, 2005",
-    "temperature": 7.4
+    "weather_data": 7.4
   },
   {
     "file_name": "denoise_18.wav",
@@ -325,7 +325,7 @@
     "place_of_manufacturer": "Germany",
     "elements_and_rare_earth_minerals": "Gadolinium (Gd)",
     "date_of_recording": "10 November, 2005",
-    "temperature": 5.1
+    "weather_data": 5.1
   },
   {
     "file_name": "denoise_25.wav",
@@ -336,7 +336,7 @@
     "place_of_manufacturer": "Japan",
     "elements_and_rare_earth_minerals": "Terbium (Tb)",
     "date_of_recording": "02 December, 2005",
-    "temperature": 6.2
+    "weather_data": 6.2
   },
   {
     "file_name": "denoise_26.wav",
@@ -347,7 +347,7 @@
     "place_of_manufacturer": "unknown",
     "elements_and_rare_earth_minerals": "Dysprosium (Dy)",
     "date_of_recording": "02 December, 2005",
-    "temperature": null
+    "weather_data": null
   },
   {
     "file_name": "denoise_29.wav",
@@ -358,7 +358,7 @@
     "place_of_manufacturer": "unknown",
     "elements_and_rare_earth_minerals": "Holmium (Ho)",
     "date_of_recording": "03 December, 2005",
-    "temperature": 8.5
+    "weather_data": 8.5
   },
   {
     "file_name": "denoise_37.wav",
@@ -369,7 +369,7 @@
     "place_of_manufacturer": "Japan",
     "elements_and_rare_earth_minerals": "Erbium (Er)",
     "date_of_recording": "03 December, 2005",
-    "temperature": 8.5
+    "weather_data": 8.5
   },
   {
     "file_name": "denoise_45.wav",
@@ -380,7 +380,7 @@
     "place_of_manufacturer": null,
     "elements_and_rare_earth_minerals": "Thulium (Tm)",
     "date_of_recording": "3 December, 2005",
-    "temperature": 8.5
+    "weather_data": 8.5
   },
   {
     "file_name": "denoise_47.wav",
@@ -391,7 +391,7 @@
     "place_of_manufacturer": "United States",
     "elements_and_rare_earth_minerals": "Ytterbium (Yb)",
     "date_of_recording": "N/A",
-    "temperature": "N/A"
+    "weather_data": "N/A"
   },
   {
     "file_name": "denoise_50.wav",
@@ -402,6 +402,6 @@
     "place_of_manufacturer": "United States",
     "elements_and_rare_earth_minerals": "Lutetium (Lu)",
     "date_of_recording": "10 December, 2005",
-    "temperature": 5.2
+    "weather_data": 5.2
   }
 ]
