@@ -1,0 +1,117 @@
+/* Consolidated container styles */
+body, .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Verdana', sans-serif;
+    font-size: 16px; /* Default font size */
+    overflow: hidden; /* Added overflow: hidden to body for preventing unnecessary scrolling */
+    background-image: url('https://raw.githubusercontent.com/amiashanley/HNF-Interface_01/main/HN%20MAP_01.png');
+    background-size: cover; /* Corrected the placement */
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
+
+/* CSS for audio player buttons */
+.audio-button {
+    cursor: pointer;
+    padding: 10px 20px; /* Adjusted padding for better button appearance */
+    margin: 10px;
+    background-color: #f2e313;
+    color: #0D0D0D;
+    border-radius: 5px;
+    text-align: center;
+  
+   /* Font styling */
+    font-family: 'Courier New', monospace;
+    font-weight: bold;
+}
+
+/* Styles for the landing pop-up */
+.popup {
+    display: block;
+    position: fixed; /* Change to fixed */
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color:#C7D9D1;
+    padding: 30px 20px 20px 30px; /* Increase top padding */
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    z-index: 9999;
+    max-width: 45%;
+    max-height: 45%;
+    overflow-y: auto;
+    color: #000000;
+    line-height: 1.5; /* Set the line height to 1.5 times the font size */
+    
+}
+
+
+/* Styles for paragraphs within the landing pop-up */
+.popup p {
+    margin: 0;
+}
+
+/* Styles for headings within the landing pop-up */
+.popup-heading {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+/* Styles for the next, back, and enter buttons */
+.next-button,
+.back-button,
+.enter-button {
+    cursor: pointer;
+    padding: 10px 20px;
+    background-color: transparent; /* Set background to transparent */
+    color: #0D0D0D;
+    border: none; /* Remove border */
+    font-family: 'Helvetica', Arial, sans-serif; /* Use Helvetica */
+    font-size: 16px;
+    position: relative; /* Make position relative for arrow positioning */
+    text-transform: uppercase; /* Capitalize the text */
+    margin-top: 20px; /* Adjust the margin-top for spacing */
+}
+
+/* Style the arrow icons for the buttons */
+.next-button::after,
+.back-button::before,
+.enter-button::after {
+    content: '';
+    display: inline-block;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    vertical-align: middle;
+}
+
+/* Style the next button arrow */
+.next-button::after {
+    border-width: 8px 0 8px 8px; /* Adjust arrow size */
+    border-color: transparent transparent transparent #0D0D0D; /* Set arrow color */
+    margin-left: 8px; /* Adjust arrow position */
+}
+
+/* Style the back button arrow */
+.back-button::before {
+    border-width: 8px 8px 8px 0; /* Adjust arrow size */
+    border-color: transparent #0D0D0D transparent transparent; /* Set arrow color */
+    margin-right: 8px; /* Adjust arrow position */
+}
+
+/* Style the enter button arrow */
+.enter-button::after {
+    border-width: 8px 0 8px 8px; /* Adjust arrow size and direction */
+    border-color: transparent transparent transparent #0D0D0D; /* Set arrow color */
+    margin-left: 8px; /* Adjust arrow position */
+}
+a {
+    color: #ffffff; /* Hyperlink colour */
+    text-decoration: none; /* Remove underline */
+}
